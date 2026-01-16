@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">## 👋 Hey, I'm Rohan Vanjari  <br><br>✨ Creating bugs since **my first “Hello World” in C** 😅  <br>📚 I'm currently learning **Data Science** and exploring **AI + SQL**   <br>🎯 Goals: To become a Devloper</p>
+<p align="left">## 👋 Hey, I'm Rohan Vanjari  <br><br>✨ Creating bugs since **my first “Hello World” in C** 😅  <br>📚 I'm currently learning Data Science and exploring AI + SQL   <br>🎯 Goals: To become a Devloper</p>
 
 ###
 
